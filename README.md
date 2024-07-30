@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Meu nome é amaral sou aluno do primeiro tdsa, curso de T.I :
 <!--
 **amaral-w55/Amaral-w55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
